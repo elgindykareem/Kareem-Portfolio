@@ -2,10 +2,9 @@
 
 ## Contact (I'm open for data related work)
 
-[My resume](https://resume.io/r/EPLJ0VGgW)
-
+- [My resume](https://resume.io/r/EPLJ0VGgW)
 - **e-mail:** <elgkareem@gmail.com>
-- **telehpone: +46 707 477 907**
+- **telehpone:** <+46 707 477 907>
 
 ## About
 
