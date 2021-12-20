@@ -1,5 +1,4 @@
 # Kareem's Data Science Portfolio
-Portfolio website of data science projects
 
 # [Project 1: Spotify Charts Analysis](https://github.com/elgindykareem/spotifychartsanalysis)
 
