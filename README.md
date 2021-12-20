@@ -10,13 +10,15 @@
 
 Hey, welcome to my portfolio where I showcase my recent projects in data science. I'm finishing my degree in *Mathematical Statistics* at Stockholm's University, where I acquired skills in 
 - Cleaning, visualizing and analyzing data, 
-- Applying and understanding statistical methods: *OLS, Logistic Regression, kMeans, kNN, XGBoost, time forecasting, Fama-French Asset modeling.*
+- Applying and understanding statistical methods: **OLS, Logistic Regression, kMeans, kNN, XGBoost, time forecasting, Fama-French Asset modeling.**
 - Rigorous understanding of multivariable calculus and *real analysis*
 - Communicating results clearly
 
-I have a special interest in *time series analysis* and *classification* for data from the media industry. 
+I have a special interest in **time series analysis** and **classification** for data from the media industry. **Data engineering** by managing databases and building data pipelines is also something I am open to.
 
-As a data scientist, I keep my analysis thorough and communicable, always regarding the stakeholder first. Understanding **who's reading the results** greatly speeds up workflow and analyzing what's important. I value efficient communication of data, using visual tools and dashboards, we can easily tell stakeholders what they need to know. UI and UX design is something I've studied in the past and enjoy incorporating into data science. 
+### Working with me
+
+I keep my analysis thorough and communicable, always regarding my team and the stakeholder first. Understanding **who's reading the results** greatly speeds up workflow and analyzing what's important, building products that matter is what I'm here for. I value efficient communication of data, using **visual tools and dashboards**, we can easily tell stakeholders what they need to know. **UI and UX design** is something I've studied in the past and enjoy incorporating into data science. 
 
 # [Project 1: Spotify Charts Analysis](https://github.com/elgindykareem/spotifychartsanalysis)
 
