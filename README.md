@@ -1,4 +1,14 @@
 # Kareem's Data Science Portfolio
+
+## Contact (I'm open for data related work)
+
+[My resume](https://resume.io/r/EPLJ0VGgW)
+
+- [e-mail: ](mailto:elgkareem@gmail.com)
+- *telehpone: +46 707 477 907*
+
+## About
+
 Hey, welcome to my portfolio where I showcase my recent projects in data science. I'm finishing my degree in *Mathematical Statistics* at Stockholm's University, where I acquired skills in 
 - Cleaning, visualizing and analyzing data, 
 - Applying and understanding statistical methods: *OLS, Logistic Regression, kMeans, kNN, XGBoost, time forecasting, Fama-French Asset modeling.*
@@ -8,13 +18,6 @@ Hey, welcome to my portfolio where I showcase my recent projects in data science
 I have a special interest in *time series analysis* and *classification* for data from the media industry. 
 
 As a data scientist, I keep my analysis thorough and communicable, always regarding the stakeholder first. Understanding **who is reading the results** greatly speeds up workflow and analyzing what's important. Communicating visually, either via presentations or dashboards is something I value greatly and have no issue in working with UI/UX tools to get the greatest product possible for business stakeholders.
-
-## I'm open for any data related work
-
-[My resume](https://resume.io/r/EPLJ0VGgW)
-Contact:
-- [e-mail: ](emailto:elgkareem@gmail.com)
-- telehpone: +46 707 477 907
 
 # [Project 1: Spotify Charts Analysis](https://github.com/elgindykareem/spotifychartsanalysis)
 
