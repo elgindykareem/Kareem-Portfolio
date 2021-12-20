@@ -4,8 +4,8 @@
 
 [My resume](https://resume.io/r/EPLJ0VGgW)
 
-- [e-mail: ](mailto:elgkareem@gmail.com)
-- *telehpone: +46 707 477 907*
+- **e-mail: ** <MAILTO:ELGKAREEM@GMAIL.COM>
+- **telehpone: +46 707 477 907**
 
 ## About
 
