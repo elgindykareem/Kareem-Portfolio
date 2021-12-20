@@ -26,8 +26,20 @@ I keep my analysis thorough and communicable, always regarding my team and the s
 
 This project is a dashboard for data analysis, time series modeling and classification of Spotify Top 200 & Viral 50 Charts. This is a business application of my **Bachelor Thesis in Mathematical Statistics:** *Financial Modeling of Music Streaming Data.* Where I investigate if we can borrow statistical and mathematical methods from finance and apply it to other markets where the characteristics may be similar. * Think of daily streams of the no.1 track on Spotify's Top 200 as the daily stock price of a company.*
 
+Tools:
+- Data import, cleaning and wrangling
+- Data warehousing
+- Data visualization
+- Data modeling (time series, classification)
+- Web app development
+
 ![](/images/dashboardimage1.png)
 
-## Project 2: Avocado Supply Prices 2016 - 2017
+## Project 2: Avocado Supply Prices 2015 - 2018
 
-Visualizing and modeling avocado supply prices in the US based on region with variables such as quantity, total sales, type of avocado and bag size of order.
+Visualizing and modeling avocado supply prices in the US based on region from 2015 to 2018. With variables such as quantity, total sales, type of avocado and bag size of order.
+
+Tools:
+- Data import, cleaning and wrangling
+- Data visualization
+- Data modeling (time series, regression models)
