@@ -17,7 +17,7 @@ Hey, welcome to my portfolio where I showcase my recent projects in data science
 
 I have a special interest in *time series analysis* and *classification* for data from the media industry. 
 
-As a data scientist, I keep my analysis thorough and communicable, always regarding the stakeholder first. Understanding **who is reading the results** greatly speeds up workflow and analyzing what's important. Communicating visually, either via presentations or dashboards is something I value greatly and have no issue in working with UI/UX tools to get the greatest product possible for business stakeholders.
+As a data scientist, I keep my analysis thorough and communicable, always regarding the stakeholder first. Understanding **who's reading the results** greatly speeds up workflow and analyzing what's important. I value efficient communication of data, using visual tools and dashboards, we can easily tell stakeholders what they need to know. UI and UX design is something I've studied in the past and enjoy incorporating into data science. 
 
 # [Project 1: Spotify Charts Analysis](https://github.com/elgindykareem/spotifychartsanalysis)
 
