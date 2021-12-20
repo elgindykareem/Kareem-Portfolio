@@ -1,7 +1,7 @@
 # Kareem's Data Science Portfolio
 
-## Contact (I'm open for data related work)
-
+## Contact
+*I'm open for data analyst, data scientist and business analyst positions.*
 - [My resume](https://resume.io/r/EPLJ0VGgW)
 - <elgkareem@gmail.com>
 - +46 707 477 907
