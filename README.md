@@ -23,6 +23,7 @@ I keep my analysis thorough and communicable, always regarding my team and the s
 # Projects
 
 ## [Project 1: Spotify Charts Analysis](https://github.com/elgindykareem/spotifychartsanalysis)
+(The full project is not yet fully integrated into the dashboard, but it will be working before Dec 31st 2021)
 
 This project is a dashboard for data analysis, time series modeling and classification of Spotify Top 200 & Viral 50 Charts. This is a business application of my **Thesis in Mathematical Statistics:** *Financial Modeling of Music Streaming Data.* Where I investigate if we can borrow statistical and mathematical methods from finance and apply it to other markets where the characteristics may be similar. * Think of daily streams of the no.1 track on Spotify's Top 200 as the daily stock price of a company.*
 
