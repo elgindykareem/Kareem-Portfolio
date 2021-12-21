@@ -36,7 +36,7 @@ Tools:
 ![](/images/dashboardimage1.png)
 
 ## [Project 2: Avocado Supply Prices 2015 - 2018](https://github.com/elgindykareem/Avocado-Prices)
-
+*(This notebook isn't uploaded fully to repo yet)*
 Visualizing and modeling ARIMA time series on avocado supply prices in the US based on region from 2015 to 2018. With variables such as quantity, total sales, type of avocado and bag size of order.
 
 Tools:
