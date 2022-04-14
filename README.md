@@ -1,4 +1,4 @@
-# Kareem's Data Science Portfolio
+# Kareem - Analyst Portfolio
 
 ## Contact
 *I'm open for data analyst, data scientist and business analyst positions.*
@@ -8,7 +8,7 @@
 
 ## About
 
-Hey, welcome to my portfolio where I showcase my recent projects in data science. I'm finishing my degree in *Mathematical Statistics* at Stockholm's University, where I acquired skills in 
+Hey, welcome to my portfolio where I showcase my recent projects in analytics. I'm finishing my degree in *Mathematical Statistics* at Stockholm's University, where I acquired skills in 
 - Cleaning, visualizing and analyzing data, 
 - Applying and understanding statistical methods: **OLS, Logistic Regression, kMeans, kNN, XGBoost, time forecasting, Fama-French Asset modeling.**
 - Rigorous understanding of multivariable calculus and *real analysis*
